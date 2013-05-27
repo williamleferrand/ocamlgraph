@@ -1,0 +1,34 @@
+K 6
+ignore
+V 32
+*.bbl
+*.cm*
+*.out
+abstract.pdf
+
+
+K 10
+svn:ignore
+V 159
+main.bbl
+main.aux
+bench1c.log
+main.blg
+main.pdf
+main.log
+main.dvi
+main.ps
+*.bbl
+*.aux
+*.log
+*.dvi
+main-pp.ps
+main-pp.tex
+pp.ml
+*.blg
+*.out
+*.cm*
+abstract.pdf
+
+
+END

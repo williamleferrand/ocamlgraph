@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 37
+*.cm*
+dgraph.byte
+dgraph.opt
+*.annot
+
+END

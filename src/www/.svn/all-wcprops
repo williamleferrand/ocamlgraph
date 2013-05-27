@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/demons/ocamlgraph/!svn/ver/455/src/www
+END
+index.prehtml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/demons/ocamlgraph/!svn/ver/455/src/www/index.prehtml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/demons/ocamlgraph/!svn/ver/2/src/www/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/demons/ocamlgraph/!svn/ver/230/src/www/Makefile
+END

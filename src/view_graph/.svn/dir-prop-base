@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 51
+.depend
+*.cm*
+viewgraph.byte
+viewgraph.opt
+*.annot
+
+END

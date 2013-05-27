@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 44
+*.cm*
+*.byte
+*.opt
+*.out
+graphEdGTK
+*.annot
+
+END

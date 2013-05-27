@@ -1,0 +1,27 @@
+K 10
+svn:ignore
+V 189
+configure
+bin
+doc
+*.cm*
+*.opt
+*.log
+Makefile
+gml.ml
+config.status
+*.a
+META
+version.ml
+.depend
+export
+semantic.cache
+*.out
+*.output
+dot_lexer.ml
+dot_parser.mli
+dot_parser.ml
+*.cache
+*.annot
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 92
+*.cm*
+gml.ml
+dot_lexer.ml
+dot_parser.ml
+dot_parser.mli
+dot_parser.output
+version.ml
+*.annot
+
+END

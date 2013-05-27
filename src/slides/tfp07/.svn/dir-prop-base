@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 112
+slides.aux
+slides.out
+slides.pdf
+slides.vrb
+slides.snm
+slides.log
+slides.nav
+slides.toc
+slides.ps
+slides-2x4.*
+
+
+END

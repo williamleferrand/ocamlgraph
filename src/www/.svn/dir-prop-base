@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 37
+version.prehtml
+*.fr.html
+*.en.html
+
+
+END

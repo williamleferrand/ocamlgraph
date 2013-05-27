@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 40
+*.aux
+*.bbl
+*.blg
+*.log
+semantic.cache
+
+
+END

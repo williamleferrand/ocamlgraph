@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 83
+*.aux
+*.log
+*.pdf
+*.dvi
+*.prv
+_region_*
+*.bbl
+*.blg
+*.snm
+*.toc
+*.vrb
+*.out
+*.nav
+
+
+END
